@@ -1,0 +1,157 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#title{
+    background-color: #ff4c68;
+}
+.container-fluid
+{ 
+    padding : 3%  15%;
+    overflow: hidden;
+ 
+}
+
+.title-bar{
+    margin-top: 4rem;
+}
+
+.title-image{
+
+    width: 40rem;
+    height: 25rem;
+
+
+   overflow: hidden;
+}
+
+.intro{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.2rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color: aliceblue;
+} 
+.intro1{
+    color: aliceblue;
+    margin-bottom: 3rem;
+}
+/* navbar */
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.8rem;
+    font-weight:bold ;
+   
+}
+.navbar{
+    padding: 0 0  4.5rem
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+ font-weight: light;
+}
+/* button */
+.button1{
+margin-right: 2rem;
+margin-bottom: 2rem;
+
+}
+.button2{
+    margin-right: 2rem;
+margin-bottom: 2rem;
+}
+.skill{
+    width: 100%;
+ padding-bottom: 4rem;
+ text-align: center;
+ font-family: 'Montserrat', sans-serif;
+}
+
+#Skills{
+    padding: 5% 15%;
+  
+}
+.feature-box{
+    text-align: center;
+    margin-bottom: 3rem;
+  
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding-bottom: 1.5rem;
+}
+p{
+    color: #8f8f8f;
+    font-family: 'Montserrat', sans-serif;
+}
+.icon{
+    color: #ef8172;
+   margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+.progress{
+    width: 60%;
+    margin-left: 4rem;
+ margin-top: 5rem;
+}
+
+.progress1{
+    margin-top: 3.5rem;
+}
+.progress2{
+    margin-top: 6.2rem;
+}
+
+#projects{
+    background-color: #ef8172;
+   padding: 8rem 2rem;
+}
+.pro{
+    width: 100%;
+ padding-bottom: 4rem;
+
+ text-align: center;
+ font-family: 'Montserrat', sans-serif;
+ color: aliceblue;
+}
+.cards{
+    padding: 0 3%;
+}
+.card1{
+    padding: 0 3%;
+}
+
+.button3{
+   margin-left: 40%;
+}
+#contact{
+    text-align: center;
+    margin: 5rem 0;
+
+}
+.copyright{
+    text-align: center;
+}
+img{
+    padding: 1rem;
+}
+@media (max-width: 1028px)
+{
+    .title-image{
+        width: 110%;
+    }
+    .intro{
+        font-size: 3rem;
+        text-align: center;
+    }
+    .intro1{
+        font-size: 2.8rem;
+        text-align: center;
+    }
+   
+}
